@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 👯 I’m looking to collaborate on ** Spring Boot , React , Angular **
+- 👯 I’m looking to collaborate on **Spring Boot , React , Angular**
 
 - 👨‍💻 All of my projects are available at [himanshusinghtomar.github.io](himanshusinghtomar.github.io)
 
