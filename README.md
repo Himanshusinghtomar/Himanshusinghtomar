@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/himanshu_tomar4" target="blank"><img src="https://img.shields.io/twitter/follow/himanshu_tomar4?logo=twitter&style=for-the-badge" alt="himanshu_tomar4" /></a> </p>
 
-- 🔭 I’m currently working on **Nextjs Project**
+- 🔭 I’m currently working  as **Full Stack Java Developer**
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **React Js**
 
-- 👯 I’m looking to collaborate on **Java Projects, React Project**
+- 👯 I’m looking to collaborate on ** Spring Boot , React , Angular **
 
 - 👨‍💻 All of my projects are available at [himanshusinghtomar.github.io](himanshusinghtomar.github.io)
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PV49Sg4xbKI7F_qpX0pPnsY3qfCVlb5r/view?usp=share_link](https://drive.google.com/file/d/1PV49Sg4xbKI7F_qpX0pPnsY3qfCVlb5r/view?usp=share_link)
 
-- ⚡ Fun fact **I think that i know Nothing**
+- ⚡ Fun fact **It’s all 0’s and 1’s**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
