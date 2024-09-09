@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **himanshusinghtomar@yahoo.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PV49Sg4xbKI7F_qpX0pPnsY3qfCVlb5r/view?usp=share_link](https://drive.google.com/file/d/1PV49Sg4xbKI7F_qpX0pPnsY3qfCVlb5r/view?usp=share_link)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1PV49Sg4xbKI7F_qpX0pPnsY3qfCVlb5r/view?usp=share_link](https://docs.google.com/document/d/1TzLqHwlnDBnKFBSeN4VMxsz-zVyqTeSF-v8MvCivmjY/edit?usp=sharing))
 
 - ⚡ Fun fact **It’s all 0’s and 1’s**
 
