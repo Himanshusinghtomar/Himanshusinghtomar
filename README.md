@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working  as **Full Stack Java Developer**
 
-- 🌱 I’m currently learning **AWS/DeOps**
+- 🌱 I’m currently learning **LLMs, RAG, MCP, Agent, Skill**
 
-- 👯 I’m looking to collaborate on **Spring Boot , React , Angular**
+- 👯 I’m looking to collaborate on **Spring Boot , React , Angular, AI, LLMS**
 
 - 👨‍💻 All of my projects are available at [himanshusinghtomar.github.io](himanshusinghtomar.github.io)
 
